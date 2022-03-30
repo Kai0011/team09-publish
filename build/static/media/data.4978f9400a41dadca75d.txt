@@ -1,0 +1,72 @@
+===================== processing the file south_0_ew.txt =======================
+**  assumptions 14 premises 114
+** Reasoner time:0.01
+justification: < atms_node: falsity []
+     justifications []
+    justifies [] >
+** Label computation time 0.0
+**  assumptions 14 premises 0
+** Reasoner time:0.0
+justification: < atms_node: falsity []
+     justifications []
+    justifies [] >
+** Label computation time 0.0
+ew nogoods = []
+ew nogoods length = 0
+ns nogoods = []
+ns nogoods length = 0
+total nogood number is: 0
+===================== processing the file south_7_ew.txt =======================
+**  assumptions 10 premises 72
+** Reasoner time:0.01
+justification: < atms_node: falsity []
+     justifications [<atms_justif: [[W sm191972368 sm191972367] [nEW sm191972367 osOSGB2669] [W osOSGB2669 osOSGB2666] [nEW osOSGB2666 sm191972368]]> <atms_justif: [[W osOSGB2669 osOSGB2666] [nEW osOSGB2666 sm191972368] [W sm191972368 sm191972367] [nEW sm191972367 osOSGB2669]]> <atms_justif: [[nEW sm191972368 osOSGB2668] [dW osOSGB2668 osOSGB2666] [nEW osOSGB2666 sm191972368]]>]
+    justifies [] >
+** Label computation time 0.0
+**  assumptions 10 premises 0
+** Reasoner time:0.0
+justification: < atms_node: falsity []
+     justifications []
+    justifies [] >
+** Label computation time 0.0
+ew nogoods = [[[nEW osOSGB2666 sm191972368] [nEW osOSGB2668 sm191972368]] [[nEW osOSGB2666 sm191972368] [nEW osOSGB2669 sm191972367]]]
+ew nogoods length = 2
+ns nogoods = []
+ns nogoods length = 0
+total nogood number is: 2
+===================== processing the file south_5_ew.txt =======================
+**  assumptions 124 premises 1436
+** Reasoner time:31.81
+justification: < atms_node: falsity []
+     justifications [<atms_justif: [[nEW sm10522344 osOSGB3188] [dW osOSGB3188 osOSGB3203] [nEW osOSGB3203 sm10522344]]> <atms_justif: [[nEW sm10522344 osOSGB3197] [dW osOSGB3197 osOSGB3188] [nEW osOSGB3188 sm10522344]]> <atms_justif: [[nEW sm10522344 osOSGB3197] [dW osOSGB3197 osOSGB3203] [nEW osOSGB3203 sm10522344]]>]
+    justifies [] >
+** Label computation time 0.0
+**  assumptions 124 premises 0
+** Reasoner time:0.01
+justification: < atms_node: falsity []
+     justifications []
+    justifies [] >
+** Label computation time 0.0
+ew nogoods = [[nEW osOSGB3203 sm10522344] [nEW osOSGB3197 sm10522344]] [[nEW osOSGB3188 sm10522344] [nEW osOSGB3197 sm10522344]] [[nEW osOSGB3188 sm10522344] [nEW osOSGB3203 sm10522344]]]
+ew nogoods length = 3
+ns nogoods = []
+ns nogoods length = 0
+total nogood number is: 3
+===================== processing the file south_17_ew.txt =======================
+**  assumptions 2 premises 14
+** Reasoner time:0.0
+justification: < atms_node: falsity []
+     justifications []
+    justifies [] >
+** Label computation time 0.0
+**  assumptions 2 premises 0
+** Reasoner time:0.0
+justification: < atms_node: falsity []
+     justifications []
+    justifies [] >
+** Label computation time 0.0
+ew nogoods = []
+ew nogoods length = 0
+ns nogoods = []
+ns nogoods length = 0
+total nogood number is: 0
